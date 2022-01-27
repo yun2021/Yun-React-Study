@@ -6,7 +6,7 @@
 
 ### 내 일주일 평점 남기기 🟡🟡🟡⚪⚪
 
->###구현 기능:
+구현 기능:
 <aside>
 ✅ 메인 페이지
 </aside>
@@ -23,7 +23,7 @@
 - 남기기 버튼을 누르면 이전 페이지로 이동하기
 
 
-</br>
+</br></br>
 
 - 배포 주소:
 <a href="http://yunhw.s3-website.ap-northeast-2.amazonaws.com/"> 💻 과제 배포 주소 (클릭)</a>
