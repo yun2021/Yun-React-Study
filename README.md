@@ -24,4 +24,8 @@
 
 - 배포 주소:
 <a href="http://yunhw.s3-website.ap-northeast-2.amazonaws.com/"> 💻 과제 배포 주소 (클릭)</a>
-  </br>
+  </br></br>
+
+![내일주일은](https://user-images.githubusercontent.com/77830226/152688442-18cf223d-3d03-45ff-adc8-42b43b2e192b.gif)
+
+</br>
